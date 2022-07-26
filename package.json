@@ -19,5 +19,10 @@
   "homepage": "https://github.com/ItaloLacerda/Projeto-Pessoal#readme",
   "dependencies": {
     "bulma": "^0.9.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
   }
 }
