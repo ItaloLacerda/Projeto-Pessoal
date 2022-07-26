@@ -79,14 +79,14 @@ main {
 }
 
 .conteiner-who-am-I {
-    height: 300px;
+    height: 400px;
 
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
-.conteiner-who-am-I h2 {
+.conteiner-who-am-I h2, .conteiner-portfolio h2 {
     color: #ffffff27;
     padding-left: 6.515%;
     font-size: 47px;
@@ -94,7 +94,10 @@ main {
 
 .conteiner-who-am-I p {
     align-self: flex-end;
-    width: 580px;
-    height: 100px;
+
+    padding-right: 6.515%;
+    font-size: 19px;
+    width: 510px;
+    height: 200px;
 }
 
