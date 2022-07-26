@@ -1,0 +1,74 @@
+/* Import Fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;800;900&family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+    color: #FFFFFF;
+}
+
+header {
+    background-image: url(src/img/programming-1873854_1280.png) ;
+    height: 768px;
+}
+
+.conteiner-header {
+    display: flex;
+    flex-flow: column wrap;
+
+    background-color: #161616ad;
+}
+
+.list-header {
+    display: flex;
+    height: 250px;
+
+    list-style-type: none;
+    font-size: 25px;
+}
+
+.list-header li {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.title {
+    height: 400px;
+    display: flex;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    font-size: 70px;
+    justify-content: space-around;
+}
+
+.img-perfil {
+     border-radius: 50%;
+
+     width: 300px;
+     height: 300px;
+}
+
+.conteiner-img-perfil {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteiner-header h2 {
+    height: 118px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
