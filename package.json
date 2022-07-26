@@ -1,0 +1,23 @@
+{
+  "name": "projeto-pessoal-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItaloLacerda/Projeto-Pessoal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItaloLacerda/Projeto-Pessoal/issues"
+  },
+  "homepage": "https://github.com/ItaloLacerda/Projeto-Pessoal#readme",
+  "dependencies": {
+    "bulma": "^0.9.4"
+  }
+}
