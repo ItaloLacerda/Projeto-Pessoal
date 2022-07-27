@@ -90,7 +90,7 @@ main {
     height: 800px;
 }
 
-.conteiner-who-am-I h2, .conteiner-portfolio h2 {
+.sub-title-h2 {
     color: #ffffff27;
     padding-left: 6.515%;
     font-size: 47px;
@@ -141,5 +141,13 @@ main {
 
 footer {
     height: 350px;
+    padding: 80px 0;
     background-color: rgba(0, 0, 0, 0.877);
+}
+
+.p-footer{
+    padding-left: 10%;
+    font-size: 18px;
+    width: 510px;
+    height: 200px;
 }
